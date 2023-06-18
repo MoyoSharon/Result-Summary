@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop ss](\results-summary-component-main\assets\images\desktopSS.jpeg)
-![mobile ss](/results-summary-component-main/assets/images/mobileSS.jpeg)
+![desktop ss](/assets/images/desktopSS.jpeg)
+![mobile ss](/assets/images/mobileSS.jpeg)
 
 ### Links
 
